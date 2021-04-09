@@ -1,4 +1,4 @@
-# **Lab X**
+# **Lab X: Work Log**
 ## April 9th 2021
 -Went to the Nasa apod-api repository and started on the logging. 
 
