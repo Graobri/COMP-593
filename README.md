@@ -1,5 +1,6 @@
 # **Lab X**
 ## April 9th 2021
+-Went to the Nasa apod-api repository and started on the logging. 
 
-Went to the Nasa apod-api repository
--
+## April 10th 2021
+
