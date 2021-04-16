@@ -7,7 +7,10 @@
 - Change my approach and started from scratch.
 - Created a ps1 file to get the Image of the day, used same format from Lab 8. 
 - Was able to make it my background
-  - Had trouble with this part, I found out I had to include multuple lines of Invoke_webRequest until it would make it my background.
+  - Had trouble with this part, I found out I had to include multuple lines of "RUNDLL32.EXE USER32.DLL,UpdatePerUserSystemParameters ,1 ,True" until it would make it my background.
+ 
+ Site used:
+ - https://community.spiceworks.com/topic/1988596-powershell-to-change-desktop-image
 
 ## April 16th 2021  
 10:30am - 11:30am
