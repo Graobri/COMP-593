@@ -19,7 +19,6 @@
   - This was tough, I was only getting the hash of the py file and not of the image but after a while I figured it out with some extra research. 
   
 Site used:  
-- ji
 - https://nitratine.net/blog/post/how-to-hash-files-in-python/#:~:text=To%20hash%20a%20file%2C%20read,then%20get%20the%20hex%20digest.&text=This%20snippet%20will%20print%20the,generated%20using%20the%20SHA256%20algorithm.
 
 
