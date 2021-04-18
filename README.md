@@ -24,4 +24,6 @@
 Site used:  
 - https://nitratine.net/blog/post/how-to-hash-files-in-python/#:~:text=To%20hash%20a%20file%2C%20read,then%20get%20the%20hex%20digest.&text=This%20snippet%20will%20print%20the,generated%20using%20the%20SHA256%20algorithm.
 
-
+## April 18th 2021
+10:30am - 11am
+- Did some research about caching
