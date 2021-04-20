@@ -27,3 +27,8 @@ Site used:
 ## April 18th 2021
 10:30am - 11am
 - Did some research about caching
+
+## April 19th 2021
+9:30pm
+- I found a flaw in my powershell script that downloads and sets image as the background, is way always dowenlaoding the image from the day before and not the current day.
+  - I had to add a line of code that deletes my json file each time i run the script so it get the current day photo. 
