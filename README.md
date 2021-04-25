@@ -1,4 +1,14 @@
 # Lab X: Work Log
+### Two Scripts Total: 
+**Api.ps1**
+- Checks if Image of the Day has been downloaded or not, if not download it.
+- Makes Image of the day Desktop Background.
+
+**Logging.py**
+- Create SQLDatabase.
+- Creates table if not already existing.
+- Gives back the date image was downloaded, name of image, size and the SHA256 hash of image.
+
 ## April 9th 2021
 -Went to the Nasa apod-api repository and started on the logging. 
 
