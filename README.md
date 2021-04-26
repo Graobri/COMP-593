@@ -53,4 +53,4 @@ Site Used:
 
 ## April 26th 2021
 9:30am
-- Tried running my script again with a new image of the day to confirm everything is working properly and I got am error in my Api.ps1 script, It doesnt pick up the $date variable weithin the image path and says the path does not exist.
+- Tried running my script again with a new image of the day to confirm everything is working properly and I got an error in my Api.ps1 script, It doesnt pick up the $date variable weithin the image path and says the path does not exist.
